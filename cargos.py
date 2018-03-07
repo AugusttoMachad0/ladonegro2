@@ -1,9 +1,7 @@
 import discord
 import asyncio
 import random
-import secreto
 COR =0x690Fc3
-token = secreto.seu_token()
 client = discord.Client()
 msg_id = None
 msg_user = None
@@ -86,4 +84,4 @@ async def on_reaction_remove(reaction, user):
      print("remove")
 
 
-client.run(token)
+client.run("NDA2ODcyNjE5MzgwMzc1NTUy.DXK7-w.WN56RPalF0SQgjwIzODdJB9Q4aU")
