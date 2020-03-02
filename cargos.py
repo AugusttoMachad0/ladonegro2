@@ -13,7 +13,7 @@ async def on_ready():
     print(client.user.name)
     print(client.user.id)
     print('--------PR-------')
-    await client.change_presence(game=discord.Game(name="!cargos"))
+    await client.change_presence(game=discord.Game(name="xirus.com.br"))
 
     @client.event
     async def on_message(message):
