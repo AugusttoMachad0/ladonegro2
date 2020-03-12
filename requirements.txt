@@ -5,7 +5,7 @@ discord.py==0.16.12
 multidict==4.1.0
 pew==1.1.2
 pipenv==11.0.2
-psutil==5.3.1
+psutil==5.6.6
 virtualenv==15.1.0
 virtualenv-clone==0.3.0
 websockets==3.4
